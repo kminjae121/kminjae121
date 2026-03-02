@@ -9,7 +9,6 @@
           🏫경기게임마이스터고에 재학중입니다🏫
     
 
-[![Gondr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kminjae121)](https://github.com/anuraghazra/github-readme-stats)
 
   # ✉Email✉
 
