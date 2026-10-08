@@ -1,9 +1,6 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4169E1&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
-
 # 안녕하십니까 유니티 클라이언트 개발자 **김민재**입니다!
 
+<br>
 <br>
 
 ## 💻 사용하는 프로그램 💻
