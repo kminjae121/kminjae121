@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=FFFFFF" alt="Rider">
 
-## 📋 사용하는 협업 📋
+## 📋 사용하는 협업툴 📋
 <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Desktop">
 <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" alt="Git Bash">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git">
